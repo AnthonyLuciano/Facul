@@ -1,5 +1,4 @@
-package trabalho_alex;
-
+package projeto;
 public class Caminhao extends Transportes {
     private int capacidadeCarga;
     private int numeroEixos;
