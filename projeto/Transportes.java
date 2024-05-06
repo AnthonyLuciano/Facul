@@ -1,4 +1,4 @@
-package trabalho_alex;
+package projeto;
 public abstract class Transportes {
     private String marca;
     private String modelo;

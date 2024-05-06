@@ -1,3 +1,4 @@
+package projeto;
 import java.util.Scanner;
 public class cartao {
 
