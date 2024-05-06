@@ -1,4 +1,4 @@
-package trabalho_alex;
+package projeto;
 public class Trator extends Transportes {
     private int potenciaMotor;
     private int numeroRodas;
