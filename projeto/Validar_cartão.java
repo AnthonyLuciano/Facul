@@ -1,6 +1,6 @@
 package projeto;
 import java.util.Scanner;
-public class cartao {
+public class Validar_cartão {
 
         public static void main(String[] args) {
             Scanner input = new Scanner(System.in);

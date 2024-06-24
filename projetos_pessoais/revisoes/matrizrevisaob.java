@@ -1,4 +1,4 @@
-package vscode_projects.revisoes;
+package revisoes;
 
 import java.util.Scanner;
 public class matrizrevisaob {

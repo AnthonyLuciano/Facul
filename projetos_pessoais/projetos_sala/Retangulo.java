@@ -1,4 +1,4 @@
-package projetos_sala;
+
 public class Retangulo {
     public static void main(String[] args) {
         int Resularea = Area(4, 7);
