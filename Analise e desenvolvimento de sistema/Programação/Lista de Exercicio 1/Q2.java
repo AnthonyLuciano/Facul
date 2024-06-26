@@ -53,8 +53,9 @@ public class Q2 {
         System.out.println("||ola! bem vindo a um de meus programas.||");
         System.out.println("||eu imagino que voce seja novo por aqui.||");
         System.out.println("||mas mudando de assunto, voce quer testar esse programa?||");
-        System.out.println("[1 - Sim]");
-        System.out.println("[2 - Não]");
+        System.out.println("[1] - Sim");
+        System.out.println("[2] - Não");
+        System.out.print("Digite o numero da Opção: ");
     }
 }
 
