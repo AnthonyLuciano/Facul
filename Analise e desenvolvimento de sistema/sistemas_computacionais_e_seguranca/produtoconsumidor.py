@@ -10,7 +10,7 @@ def produtor():
         #produz um item
         item = random.randint(1,100)
         #simula o tempo de producao
-        time.sleep(1)
+        time.sleep(random.randint(1,6))
         #adicionar o item ao buffer
         buffer.put(item)
         print(f"produtor gerou o item {item}. o buffer atual: {buffer.qsize()} itens")
