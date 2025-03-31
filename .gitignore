@@ -22,3 +22,9 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+*.bin
+Analise e desenvolvimento de sistema/Gestão e qualidade/Geometria/.vs/Geometria/DesignTimeBuild/.dtbcache.v2
+*.vsidx
+*.v2
+Analise e desenvolvimento de sistema/Gestão e qualidade/Geometria/.vs/Geometria/v17/.suo
+Analise e desenvolvimento de sistema/Gestão e qualidade/Geometria/.vs/Geometria/v17/DocumentLayout.json
